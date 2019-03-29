@@ -23,5 +23,16 @@ public class GitTest {
 		System.out.println("Practice Practice Practice");
 
 	}
+	
+	/**
+	 * Adds two integers
+	 * @param a
+	 * @param b
+	 * @return sum->(a+b)
+	 */
+	public int add(int a, int b) {
+		return a+b;
+		
+	}
 
 }
