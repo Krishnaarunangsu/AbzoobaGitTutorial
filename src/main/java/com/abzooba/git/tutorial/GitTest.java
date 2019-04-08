@@ -20,7 +20,7 @@ public class GitTest {
 	 * @param args
 	 */
 	public static void main(String[] args) {
-		System.out.println("Practice Practice Practice");
+		System.out.println("Practice Practice Practice Practice");
 
 	}
 
